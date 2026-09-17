@@ -504,12 +504,16 @@
       }
     },
     "my-privacy-agent": {
-      "sha": "a24abd9985e098139c9c93a31338a9bf3837189c",
-      "version": "1.0.0",
+      "sha": "7945cbdee8bb8d18aaff170d2239ac52f9ed35ef",
+      "version": "1.1.0",
       "components": {
         "mcpServers": [
           {
             "name": "my-privacy-agent",
+            "description": "http"
+          },
+          {
+            "name": "my-privacy-agent-account",
             "description": "http"
           }
         ],
